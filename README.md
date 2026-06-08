@@ -6,6 +6,6 @@ This repository contains my LeetCode solutions in Java.
 
 | Problem | Difficulty |
 |----------|----------|
-| 2161. Partition Array According to Given Pivot | Medium |
+| [2161. Partition Array According to Given Pivot](https://leetcode.com/problems/partition-array-according-to-given-pivot/) | Medium |
 
 Total Solved: 1
