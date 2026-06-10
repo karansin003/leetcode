@@ -21,7 +21,7 @@ My collection of LeetCode solutions in Java, organized by topic.
 
 | # | Problem | Difficulty |
 |---|---------|------------|
-| Coming Soon | | |
+| 02 | Add Two Numbers | Medium |
 
 ### Trees
 
@@ -33,7 +33,7 @@ My collection of LeetCode solutions in Java, organized by topic.
 
 ## Stats
 
-- Total Problems Solved: 3
+- Total Problems Solved:122
 - Language: Java
 - Focus: Data Structures & Algorithms
 
