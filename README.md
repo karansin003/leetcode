@@ -16,6 +16,7 @@ My collection of LeetCode solutions in Java, organized by topic.
 | # | Problem | Difficulty |
 |---|---------|------------|
 | 371 | Sum of Two Integers | Medium |
+| 1342 |  Number of Steps to Reduce a Number to Zero | Easy |
 
 ### Linked Lists
 
