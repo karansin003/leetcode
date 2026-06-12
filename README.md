@@ -82,7 +82,7 @@ My collection of LeetCode solutions in Java, organized by topic.
 
 ## Stats
 
-- Total Problems Solved:127
+- Total Problems Solved on LeetCode :- 127
 - Language: Java
 - Focus: Data Structures & Algorithms
 
