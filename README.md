@@ -92,7 +92,10 @@ My collection of LeetCode solutions in Java, organized by topic.
 leetcode/
 ├── Arrays/
 ├── Bit Manipulation/
+├── HashMap/
+├── HashSet/
 ├── Linked Lists/
+├── Strings/
 ├── Trees/
 └── README.md
 ```
