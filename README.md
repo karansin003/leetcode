@@ -26,6 +26,13 @@ My collection of LeetCode solutions in Java, organized by topic.
 | 02 | Add Two Numbers | Medium |
 | 19 | Remove Nth Node From End of List | Medium |
 
+
+### HashMap
+
+| # | Problem | Difficulty |
+|---|---------|------------|
+| 525 | Contiguous Array | Medium |
+
 ### Strings
 
 | # | Problem | Difficulty |
