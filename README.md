@@ -10,6 +10,8 @@ My collection of LeetCode solutions in Java, organized by topic.
 |---|---------|------------|
 | 66 | Plus One | Easy |
 | 2161 | Partition Array According to Given Pivot | Medium |
+| 560 | Subarray Sum Equals K | Medium |
+| 930 | Binary Subarrays With Sum | Medium |
 
 ### Bit Manipulation
 
