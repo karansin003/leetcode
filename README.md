@@ -21,6 +21,14 @@ My collection of LeetCode solutions in Java, organized by topic.
 | 1342 |  Number of Steps to Reduce a Number to Zero | Easy |
 |136|Single_Number|
 
+
+### HashMap
+
+| # | Problem | Difficulty |
+|---|---------|------------|
+| 525 | Contiguous Array | Medium |
+
+
 ### Linked Lists
 
 | # | Problem | Difficulty |
@@ -28,12 +36,6 @@ My collection of LeetCode solutions in Java, organized by topic.
 | 02 | Add Two Numbers | Medium |
 | 19 | Remove Nth Node From End of List | Medium |
 
-
-### HashMap
-
-| # | Problem | Difficulty |
-|---|---------|------------|
-| 525 | Contiguous Array | Medium |
 
 ### Strings
 
@@ -52,7 +54,7 @@ My collection of LeetCode solutions in Java, organized by topic.
 
 ## Stats
 
-- Total Problems Solved:122
+- Total Problems Solved:127
 - Language: Java
 - Focus: Data Structures & Algorithms
 
