@@ -29,6 +29,13 @@ My collection of LeetCode solutions in Java, organized by topic.
 | 525 | Contiguous Array | Medium |
 
 
+### HashMap
+
+| # | Problem | Difficulty |
+|---|---------|------------|
+| 705 | Design HashSet | Easy |
+
+
 ### Linked Lists
 
 | # | Problem | Difficulty |
