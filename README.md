@@ -76,7 +76,7 @@ My collection of LeetCode solutions in Java, organized by topic.
 
 | # | Problem | Difficulty |
 |---|---------|------------|
-| Coming Soon | | |
+| 104 | Maximum Depth of Binary Tree | Easy |
 
 ---
 
