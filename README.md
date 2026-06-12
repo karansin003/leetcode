@@ -26,6 +26,13 @@ My collection of LeetCode solutions in Java, organized by topic.
 | 02 | Add Two Numbers | Medium |
 | 19 | Remove Nth Node From End of List | Medium |
 
+### Strings
+
+| # | Problem | Difficulty |
+|---|---------|------------|
+| 344 | Reverse String | Easy |
+
+
 ### Trees
 
 | # | Problem | Difficulty |
