@@ -64,6 +64,12 @@ My collection of LeetCode solutions in Java, organized by topic.
 | 2095 | Delete the Middle Node of a Linked List | Medium |
 | 2130 | Maximum Twin Sum of a Linked List | Medium |
 
+### Math
+
+| # | Problem | Difficulty |
+|---|---------|------------|
+| 1281 | Subtract the Product and Sum of Digits of an Integer | Easy |
+
 
 ### Strings
 
