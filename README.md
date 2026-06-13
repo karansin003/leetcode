@@ -70,6 +70,7 @@ My collection of LeetCode solutions in Java, organized by topic.
 | # | Problem | Difficulty |
 |---|---------|------------|
 | 344 | Reverse String | Easy |
+| 3838 | Weighted Word Mapping | Easy |
 
 
 ### Trees
