@@ -12,6 +12,8 @@ My collection of LeetCode solutions in Java, organized by topic.
 | 2161 | Partition Array According to Given Pivot | Medium |
 | 560 | Subarray Sum Equals K | Medium |
 | 930 | Binary Subarrays With Sum | Medium |
+| 287 | Find the Duplicate Number | Medium |
+
 
 ### Bit Manipulation
 
