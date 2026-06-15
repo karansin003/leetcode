@@ -13,8 +13,9 @@ My collection of LeetCode solutions in Java, organized by topic.
 | 560 | Subarray Sum Equals K | Medium |
 | 930 | Binary Subarrays With Sum | Medium |
 | 287 | Find the Duplicate Number | Medium |
+| 875 | Koko Eating Bananas | Medium |
 
-
+Koko Eating Bananas
 ### Bit Manipulation
 
 | # | Problem | Difficulty |
